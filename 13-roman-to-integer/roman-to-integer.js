@@ -22,8 +22,6 @@ var romanToInt = function(s) {
      else{
         result += current;
      }
-
  }
   return result;
-   
 };
